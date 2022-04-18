@@ -26,7 +26,7 @@ Link do vídeo da apresentação:
 
 </br>
 
-![questao2](Assets/questao2.png)
+![questao2](Assets/Questao2.png)
 <figcaption>Figura 2: Accepted Questão 2</figcaption>
 
 </br>
