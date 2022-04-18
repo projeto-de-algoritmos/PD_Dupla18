@@ -9,7 +9,11 @@
 | 18/0100831  |  Gabriel Avelino |
 | 18/0103431  |  João Victor Valadão |
 ## Sobre 
-Nesse projeto iremos resolver questões de Online Judges usando Programação Dinâmica.
+Nesse projeto de Programação dinâmica, iremos resolver questões de Online Judges (Juízes onlines) usando Programação Dinâmica, o site escolhido para esses questões são do <a>LeetCode</a>. Para encontrar as questões usamos tags de PD:  
+
+- Questão 1 - https://leetcode.com/problems/jump-game/
+- Questão 2 - https://leetcode.com/problems/generate-parentheses/
+- Questâo 3 - https://leetcode.com/problems/climbing-stairs/
 
 ## Apresentação
 
@@ -26,7 +30,7 @@ Link do vídeo da apresentação:
 
 </br>
 
-![questao2](Assets/Questao2.png)
+![questao2](Assets/questao2.png)
 <figcaption>Figura 2: Accepted Questão 2</figcaption>
 
 </br>
