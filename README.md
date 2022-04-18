@@ -1,8 +1,4 @@
-
- Tema: PD
- 
-
-# NomedoProjeto
+# PD_Dupla_18
 
 **Número da Lista**: 5<br>
 **Conteúdo da Disciplina**: PD - Programação Dinâmica<br>
@@ -12,25 +8,55 @@
 | -- | -- |
 | 18/0100831  |  Gabriel Avelino |
 | 18/0103431  |  João Victor Valadão |
-
-
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Nesse projeto iremos resolver questões de Online Judges usando Programação Dinâmica.
+
+## Apresentação
+
+Link do vídeo da apresentação:
+
+<!-- [![Vídeo do projeto](https://img.youtube.com/vi/V98-hE-wLLE/0.jpg)](https://www.youtube.com/watch?v=nhLl3Y-iSHM) -->
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+<center>
+
+![accepted_SPOJ](assets/questao1.jpg)
+<figcaption>Figura 1: Accepted Questão 1</figcaption>
+
+</br>
+
+<!-- ![accepted_SPOJ](assets/cookiesAccepted.png)
+<figcaption>Figura 2: Accepted Questão 2</figcaption>
+
+</br>
+
+![accepted_SPOJ](assets/flowersAccepted.png)
+<figcaption>Figura 3: Accepted Questão 3</figcaption>
+
+</br> -->
+
+</center>
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python/Java<br>
+**Framework**: não existe<br>
+Possuir Python e Java instalado.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+Execute a questão 1 com os seguintes comandos:
+```jsx
+Navegue até o diretório que o arquivo se encontra
+javac .\Solution.java
+java Solution
+```
+Execute a questão 2 com os seguintes comandos:
+```jsx
+Navegue até o diretório que o arquivo se encontra
+python ou python3 Solution.py
+```
+Execute a questão 3 com os seguintes comandos:
+```jsx
+Navegue até o diretório que o arquivo se encontra
+python ou python3 Solution.py
+```
