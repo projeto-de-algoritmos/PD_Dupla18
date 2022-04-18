@@ -21,17 +21,17 @@ Link do vídeo da apresentação:
 
 <center>
 
-![accepted_SPOJ](assets/questao1.jpg)
+![accepted_SPOJ](Assets/questao1.jpg)
 <figcaption>Figura 1: Accepted Questão 1</figcaption>
 
 </br>
 
-![questao2](assets/questao2.png)
+![questao2](Assets/questao2.png)
 <figcaption>Figura 2: Accepted Questão 2</figcaption>
 
 </br>
 
-![questao3](assets/questao3.png)
+![questao3](Assets/questao3.png)
 <figcaption>Figura 3: Accepted Questão 3</figcaption>
 
 </br> 
