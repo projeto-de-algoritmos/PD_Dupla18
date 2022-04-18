@@ -16,3 +16,6 @@ class Solution:
         
         helper("", 0, 0)
         return res
+    
+    #Modifique as entradas aqui
+    print(generateParenthesis(1,3))

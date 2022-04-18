@@ -26,15 +26,15 @@ Link do vídeo da apresentação:
 
 </br>
 
-<!-- ![accepted_SPOJ](assets/cookiesAccepted.png)
+![questao2](assets/questao2.png)
 <figcaption>Figura 2: Accepted Questão 2</figcaption>
 
 </br>
 
-![accepted_SPOJ](assets/flowersAccepted.png)
+![questao3](assets/questao3.png)
 <figcaption>Figura 3: Accepted Questão 3</figcaption>
 
-</br> -->
+</br> 
 
 </center>
 
