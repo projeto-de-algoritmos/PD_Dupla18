@@ -19,7 +19,7 @@ Nesse projeto de Programação dinâmica, iremos resolver questões de Online Ju
 
 Link do vídeo da apresentação:
 
-<!-- [![Vídeo do projeto](https://img.youtube.com/vi/V98-hE-wLLE/0.jpg)](https://www.youtube.com/watch?v=nhLl3Y-iSHM) -->
+[![Vídeo do projeto](https://img.youtube.com/vi/V98-hE-wLLE/0.jpg)](https://www.youtube.com/watch?v=5FcrQDsx8-I) 
 
 ## Screenshots
 
